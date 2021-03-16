@@ -1,0 +1,9 @@
+services:
+    _defaults:
+        autowire: true
+        autoconfigure: true
+
+    Blogware\Development\:
+        resource: '../src/'
+        exclude:
+            - '../src/Kernel.php'

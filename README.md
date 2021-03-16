@@ -1,1 +1,1 @@
-# development
+# Blogware Development Template
